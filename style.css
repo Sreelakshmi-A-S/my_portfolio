@@ -362,16 +362,16 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.skills-content .right .c programming::before{
+.skills-content .right .c::before{
     width: 90%;
 }
-.skills-content .right .python::before{
+.skills-content .right .py::before{
     width: 88%;
 }
 .skills-content .right .java::before{
     width: 85%;
 }
-.skills-content .right .cloud computing::before{
+.skills-content .right .cloud::before{
     width: 84%;
 }
 .skills-content .right .mysql::before{
