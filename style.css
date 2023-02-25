@@ -365,7 +365,7 @@ section .title::after{
 .skills-content .right .c programming::before{
     width: 90%;
 }
-.skills-content .right .python::before{
+.skills-content .right .py::before{
     width: 88%;
 }
 .skills-content .right .java::before{
